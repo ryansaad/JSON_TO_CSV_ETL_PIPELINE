@@ -1,7 +1,4 @@
-# AWS Glue ETL Pipeline: JSON to CSV Transformation (Demo 2)
-
-## Problem Solved
-
+# AWS Glue ETL Pipeline: JSON to CSV Transformation
 This project demonstrates a serverless ETL.
 
 ## Services Used:
